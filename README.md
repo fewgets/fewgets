@@ -20,6 +20,7 @@
 
 - 🎓 Final Year BS AI Student (Pakistan)
 - 🧠 AI/DL Developer | Real-World Solution Maker
+- 📊 Data Scientist + Analyst | ML, NLP, CV, LLMs
 - 💬 Skills: PyTorch, TensorFlow, NLP, FastAPI, CustomTkinter
 - 🧪 Projects: Brain Tumor Detection, FitFusion, BankApp, Games
 - 🧱 Building AI to solve actual problems, not just demos
@@ -53,13 +54,19 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-9A1F6A?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=darkreader&logoColor=white" />
+  <img src="https://img.shields.io/badge/VGG16-FF1493?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-800080?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-228B22?style=for-the-badge&logo=google&logoColor=white" />
+
 </p>
 
 ### 🧰 Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
