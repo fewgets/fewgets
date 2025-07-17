@@ -157,7 +157,7 @@
 ---
 
 <div align="center">
-  <h3 style="color:#36FFC7;">"AI isn't the future — it's the present. Work on it. Own it. Ship it."</h3>
+  <h3 style="color:#36FFC7;">"AI isn't the future - it's the present. Work on it. Own it. Ship it."</h3>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36FFC7&height=150&section=footer&animation=twinkling" width="100%" />
 </div>
 
