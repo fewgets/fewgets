@@ -85,8 +85,8 @@
     <td width="50%">
       <h3 align="center">🧠 Brain Tumor Classification</h3>
       <p align="center">
-        <a href="https://github.com/fewgets/BrainTumorClassification">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fewgets&repo=BrainTumorClassification&theme=dark&hide_border=true&bg_color=0D1117&border_color=36FFC7&icon_color=36FFC7&title_color=36FFC7" />
+        <a href="https://github.com/fewgets/NeuroAssistAI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fewgets&repo=NeuroAssistAI&theme=dark&hide_border=true&bg_color=0D1117&border_color=36FFC7&icon_color=36FFC7&title_color=36FFC7" />
         </a>
       </p>
       <p align="center">CNN for tumor detection + ANN for stage classification using gene reports</p>
