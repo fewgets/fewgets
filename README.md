@@ -110,6 +110,10 @@
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 
 
@@ -171,12 +175,15 @@
 
 ---
 
-## 🧪 Currently Working On
+## 🧪 Currently Working On - **FinSageAI**
 
-- 📂 Resume Scanner using NLP  
-- 🧠 Real-time X-ray diagnosis AI  
-- 🧘 FitFusion V2 with wearable integration  
-- 📊 Dashboard-based performance visualizers  
+- 💸 **FinSageAI** – AI-Driven Personal Finance & Wealth Assistant  
+- 🎙️ Voice-enabled smart ledger for expense/income tracking  
+- 📈 Automated budgeting, financial insights, and goal-setting  
+- 🧠 AI modules for investment suggestions & savings optimization  
+- 📊 Auto-generated reports and dashboards with visual analytics  
+- 📱 Mobile-first interface with Python backend integration  
+- 🔐 End-to-end encrypted user data & authentication  
 
 ---
 
