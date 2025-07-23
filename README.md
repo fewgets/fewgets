@@ -47,20 +47,57 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
-### 🤖 AI / ML
+### 🤖 AI / ML & Dep Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-9A1F6A?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge&logo=darkreader&logoColor=white" />
-  <img src="https://img.shields.io/badge/VGG16-FF1493?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLM-800080?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-228B22?style=for-the-badge&logo=google&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorBoard-FF9800?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/CNN-9C27B0?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RNN-009688?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ANN-4CAF50?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LSTM-3F51B5?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Autoencoder-FF4081?style=for-the-badge&logo=mediapipe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transfer Learning-795548?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReLU Activation-607D8B?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv5-000000?style=for-the-badge&logo=yolov5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VGG16-2196F3?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LabelImg-6D4C41?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-FF5722?style=for-the-badge&logo=mediapipe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-005F73?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformer -8E24AA?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BERT-0A66C2?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging Face-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Whisper-1E88E5?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt Engineering-263238?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-9E9E9E?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Google AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vertex AI-FF7043?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AutoML Vision-9C27B0?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PaLM 2-3367D6?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FLAN-T5-FF5252?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud Storage-607D8B?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-4CAF50?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</p>
+
 
 ### 🧰 Tools
 <p align="center">
@@ -83,14 +120,17 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🧠 Brain Tumor Classification</h3>
-      <p align="center">
-        <a href="https://github.com/fewgets/NeuroAssistAI">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fewgets&repo=NeuroAssistAI&theme=dark&hide_border=true&bg_color=0D1117&border_color=36FFC7&icon_color=36FFC7&title_color=36FFC7" />
-        </a>
-      </p>
-      <p align="center">CNN for tumor detection + ANN for stage classification using gene reports</p>
-    </td>
+  <h3 align="center">🧠 Brain Tumor Classification</h3>
+  <p align="center">
+    <a href="https://github.com/fewgets/NeuroAssistAI">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=fewgets&repo=NeuroAssistAI&theme=dark&hide_border=true&bg_color=0D1117&border_color=36FFC7&icon_color=36FFC7&title_color=36FFC7" />
+    </a>
+  </p>
+  <p align="center">
+    CNN for tumor detection + ANN for stage classification using gene reports - 
+    <a href="https://neuroassistai.vercel.app/" target="_blank" style="color:#36FFC7;">Live Demo</a>
+  </p>
+</td>
     <td width="50%">
       <h3 align="center">🔥 FitFusion (AI Fitness App)</h3>
       <p align="center">
