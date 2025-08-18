@@ -193,7 +193,7 @@
   <a href="mailto:shaikhusama541@gmail.com">
     <img src="https://img.shields.io/badge/Email-shaikhusama541%40gmail.com-36FFC7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
-  <a href="https://linkedin.com/in/usama-shahid">
+  <a href="https://linkedin.com/in/usamashahid2366009">
     <img src="https://img.shields.io/badge/LinkedIn-Usama%20Shahid-36FFC7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
   </a>
   <a href="https://github.com/fewgets">
