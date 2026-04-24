@@ -124,45 +124,42 @@
 <table>
   <tr>
     <td width="50%">
-  <h3 align="center">🧠 Brain Tumor Classification</h3>
-  <p align="center">
-    <a href="https://github.com/fewgets/NeuroAssistAI">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=fewgets&repo=NeuroAssistAI&theme=dark&hide_border=true&bg_color=0D1117&border_color=36FFC7&icon_color=36FFC7&title_color=36FFC7" />
-    </a>
-  </p>
-  <p align="center">
-    CNN for tumor detection + ANN for stage classification using gene reports - 
-    <a href="https://neuroassistai.vercel.app/" target="_blank" style="color:#36FFC7;">Live Demo</a>
-  </p>
-</td>
+      <h3 align="center">🛡️ PakShieldAI - Cyber Defense System</h3>
+      <p align="center">
+        <a href="https://github.com/fewgets/PakShield_Defence_AI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fewgets&repo=PakShield_Defence_AI&theme=dark&hide_border=true&bg_color=0D1117&border_color=36FFC7&icon_color=36FFC7&title_color=36FFC7" />
+        </a>
+      </p>
+      <p align="center">National competition MVP - Threat Intelligence, Video Surveillance AI & Border Anomaly Detection across 3 integrated modules · <a href="https://pak-shield-ai.vercel.app" style="color:#36FFC7;">Live Demo</a></p>
+    </td>
     <td width="50%">
-      <h3 align="center">🔥 FitFusion (AI Fitness App)</h3>
+      <h3 align="center">🤖 IntelliViz - Multi-Agent AI System</h3>
+      <p align="center">
+        <a href="https://github.com/fewgets/IntelliViz">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fewgets&repo=IntelliViz&theme=dark&hide_border=true&bg_color=0D1117&border_color=36FFC7&icon_color=36FFC7&title_color=36FFC7" />
+        </a>
+      </p>
+      <p align="center">LangGraph-powered multi-agent system for real-time IoT predictive maintenance, anomaly detection & natural language data analysis</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧠 NeuroAssistAI - Tumor Classification</h3>
+      <p align="center">
+        <a href="https://github.com/fewgets/NeuroAssistAI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fewgets&repo=NeuroAssistAI&theme=dark&hide_border=true&bg_color=0D1117&border_color=36FFC7&icon_color=36FFC7&title_color=36FFC7" />
+        </a>
+      </p>
+      <p align="center">CNN achieving 93% accuracy on MRI tumor classification + ANN for glioma stage prediction (Complete Barin Tumor Prediction) <a href="https://neuroassistai.vercel.app/" target="_blank" style="color:#36FFC7;">Live Demo</a></p>
+    </td>
+    <td width="50%">
+      <h3 align="center">💪 FitFusion — AI Fitness Application</h3>
       <p align="center">
         <a href="https://github.com/fewgets/FitFusion">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=fewgets&repo=FitFusion&theme=dark&hide_border=true&bg_color=0D1117&border_color=36FFC7&icon_color=36FFC7&title_color=36FFC7" />
         </a>
       </p>
-      <p align="center">Posture tracking, real-time reps counter, history/streak tracker, Supabase backend</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏦 BankApp</h3>
-      <p align="center">
-        <a href="https://github.com/fewgets/BankApp">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fewgets&repo=BankApp&theme=dark&hide_border=true&bg_color=0D1117&border_color=36FFC7&icon_color=36FFC7&title_color=36FFC7" />
-        </a>
-      </p>
-      <p align="center">GUI Desktop app with login, account security, image capture, transactions</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎮 Classic Snake Game</h3>
-      <p align="center">
-        <a href="https://github.com/fewgets/Snake-Game">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fewgets&repo=Snake-Game&theme=dark&hide_border=true&bg_color=0D1117&border_color=36FFC7&icon_color=36FFC7&title_color=36FFC7" />
-        </a>
-      </p>
-      <p align="center">Simple and addictive snake game built from scratch using pygame in Python</p>
+      <p align="center">Real-time posture tracking across 10 exercise types, automatic rep counting, meal planning & full workout history via Supabase</p>
     </td>
   </tr>
 </table>
