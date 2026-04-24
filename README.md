@@ -135,8 +135,8 @@
     <td width="50%">
       <h3 align="center">🤖 IntelliViz - Multi-Agent AI System</h3>
       <p align="center">
-        <a href="https://github.com/fewgets/IntelliViz">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fewgets&repo=IntelliViz&theme=dark&hide_border=true&bg_color=0D1117&border_color=36FFC7&icon_color=36FFC7&title_color=36FFC7" />
+        <a href="https://github.com/fewgets/IntelliViz_FYP">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fewgets&repo=IntelliViz-FYP&theme=dark&hide_border=true&bg_color=0D1117&border_color=36FFC7&icon_color=36FFC7&title_color=36FFC7" />
         </a>
       </p>
       <p align="center">LangGraph-powered multi-agent system for real-time IoT predictive maintenance, anomaly detection & natural language data analysis</p>
