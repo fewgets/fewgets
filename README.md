@@ -6,12 +6,12 @@
 
 <div align="center">
   <a href="https://github.com/fewgets?tab=followers">
-    <img src="https://img.shields.io/badge/Followers-5-36FFC7?style=for-the-badge&logo=github&labelColor=0D1117" alt="followers"/>
+    <img src="https://img.shields.io/github/followers/fewgets?label=Followers&style=for-the-badge&logo=github&color=36FFC7&labelColor=0D1117" alt="followers"/>
   </a>
   <a href="https://github.com/fewgets">
-    <img src="https://img.shields.io/badge/Stars-11-36FFC7?style=for-the-badge&logo=star&labelColor=0D1117" alt="stars" />
+    <img src="https://img.shields.io/github/stars/fewgets?affiliations=OWNER&label=Stars&style=for-the-badge&logo=github&color=36FFC7&labelColor=0D1117" alt="stars"/>
   </a>
-  <img src="https://img.shields.io/badge/Profile%20Views-119-36FFC7?style=for-the-badge&labelColor=0D1117&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=fewgets&label=Profile%20Views&color=36FFC7&style=for-the-badge" alt="profile views"/>
 </div>
 
 ---
@@ -22,7 +22,8 @@
 - 🧠 AI/DL Developer | Real-World Solution Maker
 - 📊 Data Scientist + Analyst | ML, NLP, CV, LLMs
 - 💬 Skills: PyTorch, TensorFlow, NLP, FastAPI, CustomTkinter
-- 🧪 Projects: Brain Tumor Detection, FitFusion, BankApp, Games
+- 🧪 Projects: IntelliViz (FYP), Ledgerio POS, CallSynt Voice Agents, Taleem AI, PakShield AI
+- 🤝 Open to collaborations, freelance work and full-time AI roles
 - 🧱 Building AI to solve actual problems, not just demos
 
 ---
@@ -47,7 +48,7 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
 
-### 🤖 AI / ML & Dep Learning
+### 🤖 AI / ML & Deep Learning
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -124,42 +125,62 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🛡️ PakShieldAI - Cyber Defense System</h3>
+      <h3 align="center">🤖 IntelliViz - Industrial AI (FYP)</h3>
+      <p align="center">
+        <a href="https://github.com/fewgets/IntelliViz-FYP">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fewgets&repo=IntelliViz-FYP&theme=dark&hide_border=true&bg_color=0D1117&border_color=36FFC7&icon_color=36FFC7&title_color=36FFC7" />
+        </a>
+      </p>
+      <p align="center">Predictive maintenance with a multi-task LSTM (RUL, 24 h failure, fault type) plus Orion AI, a LangGraph multi-agent analytics copilot</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧾 Ledgerio - Intelligent POS</h3>
+      <p align="center">
+        <a href="https://github.com/fewgets/Ledgerio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fewgets&repo=Ledgerio&theme=dark&hide_border=true&bg_color=0D1117&border_color=36FFC7&icon_color=36FFC7&title_color=36FFC7" />
+        </a>
+      </p>
+      <p align="center">Native .NET 10 / WPF point-of-sale and business ledger: sales, stock, credit, banks, staff, smart insights and 110 unit tests</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📞 CallSynt - AI Voice Agents</h3>
+      <p align="center">
+        <a href="https://github.com/fewgets/CallSynt">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fewgets&repo=CallSynt&theme=dark&hide_border=true&bg_color=0D1117&border_color=36FFC7&icon_color=36FFC7&title_color=36FFC7" />
+        </a>
+      </p>
+      <p align="center">Self-hosted AI voice agents for inbound and outbound calls: LiveKit, Whisper, Ollama and Kokoro, with a multi-tenant agent builder</p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎓 Taleem AI - Learning Platform</h3>
+      <p align="center">
+        <a href="https://github.com/fewgets/Taleem-AI">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fewgets&repo=Taleem-AI&theme=dark&hide_border=true&bg_color=0D1117&border_color=36FFC7&icon_color=36FFC7&title_color=36FFC7" />
+        </a>
+      </p>
+      <p align="center">Bilingual (English + Urdu) AI tutor for Pakistani students: RAG tutoring, notes, quizzes, flashcards and 6 learning games</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🛡️ PakShield AI - Cyber Defence</h3>
       <p align="center">
         <a href="https://github.com/fewgets/PakShield_Defence_AI">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=fewgets&repo=PakShield_Defence_AI&theme=dark&hide_border=true&bg_color=0D1117&border_color=36FFC7&icon_color=36FFC7&title_color=36FFC7" />
         </a>
       </p>
-      <p align="center">National competition MVP - Threat Intelligence, Video Surveillance AI & Border Anomaly Detection across 3 integrated modules · <a href="https://pak-shield-ai.vercel.app" style="color:#36FFC7;">Live Demo</a></p>
+      <p align="center">National hackathon MVP: threat intelligence, video surveillance AI and border anomaly detection · <a href="https://pak-shield-ai.vercel.app">Live Demo</a></p>
     </td>
     <td width="50%">
-      <h3 align="center">🤖 IntelliViz - Multi-Agent AI System</h3>
-      <p align="center">
-        <a href="https://github.com/fewgets/IntelliViz_FYP">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fewgets&repo=IntelliViz-FYP&theme=dark&hide_border=true&bg_color=0D1117&border_color=36FFC7&icon_color=36FFC7&title_color=36FFC7" />
-        </a>
-      </p>
-      <p align="center">LangGraph-powered multi-agent system for real-time IoT predictive maintenance, anomaly detection & natural language data analysis</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🧠 NeuroAssistAI - Tumor Classification</h3>
+      <h3 align="center">🧠 NeuroAssist AI - Tumour Detection</h3>
       <p align="center">
         <a href="https://github.com/fewgets/NeuroAssistAI">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=fewgets&repo=NeuroAssistAI&theme=dark&hide_border=true&bg_color=0D1117&border_color=36FFC7&icon_color=36FFC7&title_color=36FFC7" />
         </a>
       </p>
-      <p align="center">CNN achieving 93% accuracy on MRI tumor classification + ANN for glioma stage prediction (Complete Barin Tumor Prediction) <a href="https://neuroassistai.vercel.app/" target="_blank" style="color:#36FFC7;">Live Demo</a></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">💪 FitFusion — AI Fitness Application</h3>
-      <p align="center">
-        <a href="https://github.com/fewgets/FitFusion">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fewgets&repo=FitFusion&theme=dark&hide_border=true&bg_color=0D1117&border_color=36FFC7&icon_color=36FFC7&title_color=36FFC7" />
-        </a>
-      </p>
-      <p align="center">Real-time posture tracking across 10 exercise types, automatic rep counting, meal planning & full workout history via Supabase</p>
+      <p align="center">CNN with ~93% accuracy on MRI tumour classification + ANN for glioma stage prediction · <a href="https://neuroassistai.vercel.app/">Live Demo</a></p>
     </td>
   </tr>
 </table>
@@ -172,15 +193,12 @@
 
 ---
 
-## 🧪 Currently Working On - **FinSageAI**
+## 🧪 Currently Working On
 
-- 💸 **FinSageAI** – AI-Driven Personal Finance & Wealth Assistant  
-- 🎙️ Voice-enabled smart ledger for expense/income tracking  
-- 📈 Automated budgeting, financial insights, and goal-setting  
-- 🧠 AI modules for investment suggestions & savings optimization  
-- 📊 Auto-generated reports and dashboards with visual analytics  
-- 📱 Mobile-first interface with Python backend integration  
-- 🔐 End-to-end encrypted user data & authentication  
+- 📞 **[CallSynt](https://github.com/fewgets/CallSynt)**: self-hosted AI voice agents that answer and make business calls
+- 🤖 **[IntelliViz](https://github.com/fewgets/IntelliViz-FYP)**: final-year project, AI predictive maintenance + multi-agent analytics
+- 🧾 **[Ledgerio](https://github.com/fewgets/Ledgerio)**: intelligent POS and business ledger for wholesale businesses
+- ⚙️ AI automation with n8n, LangGraph and LLM agents
 
 ---
 
@@ -190,7 +208,7 @@
   <a href="mailto:shaikhusama541@gmail.com">
     <img src="https://img.shields.io/badge/Email-shaikhusama541%40gmail.com-36FFC7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
   </a>
-  <a href="https://linkedin.com/in/usamashahid2366009">
+  <a href="https://www.linkedin.com/in/-usamashahid/">
     <img src="https://img.shields.io/badge/LinkedIn-Usama%20Shahid-36FFC7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
   </a>
   <a href="https://github.com/fewgets">
